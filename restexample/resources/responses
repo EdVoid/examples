@@ -1,0 +1,33 @@
+<Responses>
+    <Response id="1">
+        <accountid>00001</accountid>
+        <status>ACTIVE</status>
+        <origin>Backbook</origin>
+    </Response>
+    <Response id="2">
+        <accountid>00002</accountid>
+        <status>INIT</status>
+        <origin>Backbook</origin>
+    </Response>
+    <Response id="3">
+        <accountid>00003</accountid>
+        <status>INIT</status>
+        <origin>Backbook</origin>
+    </Response>
+    <Response id="4">
+        <accountid>00004</accountid>
+        <status>CANCEL</status>
+        <origin>Backbook</origin>
+    </Response>
+    <Response id="5">
+        <accountid>00005</accountid>
+        <status>INACTIVE</status>
+        <origin>Backbook</origin>
+    </Response>
+    <Response id="6">
+        <accountid>00006</accountid>
+        <status>ACTIVE</status>
+        <origin>Backbook</origin>
+    </Response>
+
+</Responses>
